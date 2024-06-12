@@ -8,7 +8,7 @@
 
 ## About
 
-The UAB Civitan International Neuroimaging Laboratory (CINL) provides a core resource at UAB for state-of-the-art MRI experiments and analyses.
+The UAB Civitan International Neuroimaging Laboratory (CINL) provides a resource at UAB for state-of-the-art MRI experiments and analyses.
 
 This site is meant to provide useful documentation for researchers, including CINL policies and procedures, equipment and facility information for grant applications, as well as information on data storage, organization, pre-processing, and processing methods on UAB's high-performance computing (HPC) cluster, Cheaha. Cheaha provides researchers with both data storage space as well as a large amount of computational power necessary for high-throughput neuroimaging analysis. Access to the Cheaha cluster is free for UAB researchers. Request an account using the following [instructions](https://uabrc.github.io/account_management/uab_researcher/).
 
